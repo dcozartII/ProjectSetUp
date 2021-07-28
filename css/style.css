@@ -5,3 +5,13 @@ html *
    color: #000 !important;
    font-family: Arial !important;
 }
+
+label {
+   display: block;
+   font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+   margin: .4rem 0;
+}
